@@ -26,7 +26,7 @@ This is a simple **Rock Paper Scissors** game implemented in **C**. The game all
 ### Steps to Compile and Run
 1. Clone the repository (if using Git):
    ```sh
-   git clone https://github.com/your-username/_rock-paper-scissors.git
+   git clone https://github.com/DipayanSadhukhan/_rock-paper-scissors.git
    cd _rock-paper-scissors
    ```
 2. Compile the code:
